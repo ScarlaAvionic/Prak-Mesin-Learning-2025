@@ -1,6 +1,5 @@
-# Prak-Mesin-Learning-2025
-
-
+Prak-Mesin-Learning-2025
+latihan modul 1
 1. Dataset: Titanic - Machine Learning from Disaster
 Deskripsi: Dataset ini berisi informasi tentang penumpang Titanic, termasuk apakah mereka selamat atau tidak, usia, kelas tiket, dan sebagainya.
 Sumber: ( https://www.kaggle.com/datasets/yasserh/titanic-dataset )
